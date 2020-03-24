@@ -1,0 +1,41 @@
+
+cantidad de iteraciones 200
+maxima de fichas 16
+promedio de fichas 13
+ 
+cantidad de iteraciones 200
+maxima de fichas 17
+promedio de fichas 13
+ 
+cantidad de iteraciones 200
+maxima de fichas 16
+promedio de fichas 13
+ 
+cantidad de iteraciones 200
+maxima de fichas 16
+promedio de fichas 13
+
+cantidad de iteraciones 200
+maxima de fichas 15
+promedio de fichas 13
+
+cantidad de iteraciones 200
+maxima de fichas 16
+promedio de fichas 13
+ 
+cantidad de iteraciones 200
+maxima de fichas 15
+promedio de fichas 13
+
+cantidad de iteraciones 200
+maxima de fichas 16
+promedio de fichas 13
+
+cantidad de iteraciones 200
+maxima de fichas 16
+promedio de fichas 13
+ 
+cantidad de iteraciones 200
+maxima de fichas 16
+promedio de fichas 14
+

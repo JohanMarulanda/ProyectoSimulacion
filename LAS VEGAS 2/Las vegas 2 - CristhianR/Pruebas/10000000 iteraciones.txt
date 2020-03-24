@@ -1,0 +1,15 @@
+cantidad de iteraciones 10000000
+maxima de fichas 20
+promedio de fichas 13
+
+cantidad de iteraciones 10000000
+maxima de fichas 19
+promedio de fichas 13
+
+cantidad de iteraciones 10000000
+maxima de fichas 20
+promedio de fichas 13
+
+cantidad de iteraciones 10000000
+maxima de fichas 20
+promedio de fichas 13

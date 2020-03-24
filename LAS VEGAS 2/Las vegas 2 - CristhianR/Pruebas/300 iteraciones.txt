@@ -1,0 +1,42 @@
+
+cantidad de iteraciones 300
+maxima de fichas 16
+promedio de fichas 12
+
+cantidad de iteraciones 300
+maxima de fichas 16
+promedio de fichas 13
+
+cantidad de iteraciones 300
+maxima de fichas 16
+promedio de fichas 13
+
+cantidad de iteraciones 300
+maxima de fichas 15
+promedio de fichas 13
+
+cantidad de iteraciones 300
+maxima de fichas 15
+promedio de fichas 13
+
+cantidad de iteraciones 300
+maxima de fichas 16
+promedio de fichas 14
+
+cantidad de iteraciones 300
+maxima de fichas 15
+promedio de fichas 12
+
+cantidad de iteraciones 300
+maxima de fichas 15
+promedio de fichas 13
+
+cantidad de iteraciones 300
+maxima de fichas 15
+promedio de fichas 13
+
+cantidad de iteraciones 300
+maxima de fichas 16
+promedio de fichas 13
+BUILD SUCCESSFUL (tota
+
